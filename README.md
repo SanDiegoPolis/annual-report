@@ -10,3 +10,13 @@
 + 
 推荐通过灵喵机器人记录log
 + [LingCat-bot](https://github.com/NPUcraft/LingCat-bot)
+
+# 贡献
+
+'''作者没有维护更新的计划'''，如果你在使用过程中发现任何问题，可以提交 issue 或自行 fork 修改后提交 pull request。
+
+如果你要提交 pull request，请确保你的代码风格和项目已有的代码保持一致，变量命名清晰，有适当的注释。
+
+# 许可证
+
+本项目使用 [`AGPL-3.0`](https://choosealicense.com/licenses/agpl-3.0/) 作为开源许可证。
