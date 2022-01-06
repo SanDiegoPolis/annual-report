@@ -1,5 +1,5 @@
 ## annual-report
-解析log4js-node的oicq群消息并生成年度报告
+解析log4js-node生成的的oicq格式群消息并生成年度报告
 
 [![license](https://img.shields.io/github/license/Sirius0v0/SiriusBot)](https://choosealicense.com/licenses/agpl-3.0/)
 
