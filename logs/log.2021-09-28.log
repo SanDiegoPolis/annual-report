@@ -1,0 +1,18 @@
+[2021-09-28T14:04:03.691] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 路人甲‮‮‭(111)] #update
+[2021-09-28T14:07:46.387] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 路人甲(111)] -mc online
+[2021-09-28T14:09:06.053] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 张三(54321)] 空荡荡
+[2021-09-28T14:09:38.180] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 路人甲‮‮‭(111)] 空荡荡
+[2021-09-28T14:09:45.477] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888)), Member: 张四(654321)] 空荡荡
+[2021-09-28T14:10:57.435] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 张五(7654321)] 空荡荡
+[2021-09-28T14:18:30.366] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 尼古拉斯(2333333)] [CQ:reply,id=I6uL3bILShsADOr18emya2FSs5EB][CQ:at,qq=7654321,text=@张五] 怎么你也会复读？
+[2021-09-28T14:19:48.558] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 尼古拉斯(2333333)] [CQ:image,file=c86bbac425a2bc10a3b561546772369a206876-649-1920.jpg,url=https://gchat.qpic.cn/gchatpic_new/313037021/598445021-2991921667-C86BBAC425A2BC10A3B561546772369A/0?term=3]
+[2021-09-28T14:21:38.799] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 某某某(666666)] 五仁？
+[2021-09-28T14:21:46.671] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 某某某(666666)] 为啥不喜欢五仁
+[2021-09-28T14:22:00.271] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 某某某(666666)] 我最爱的月饼馅
+[2021-09-28T14:25:41.632] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 尼古拉斯(2333333)] 真的？
+[2021-09-28T14:28:39.180] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 某某某(666666)] 真的
+[2021-09-28T14:29:12.505] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 某某某(666666)] 总有少数人能吃惯大多数人的味道
+[2021-09-28T14:29:26.150] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 某某某(666666)] 少打了几个字
+[2021-09-28T14:29:36.716] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 某某某(666666)] 总有少数人能吃惯大多数人吃不惯的味道
+[2021-09-28T14:29:41.138] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: 某某某(666666)] [CQ:image,file=d157dac9d1928403e1529b721caeffd2127948-152-152.gif,url=https://gchat.qpic.cn/gchatpic_new/2570011096/598445021-2706253413-D157DAC9D1928403E1529B721CAEFFD2/0?term=3]
+[2021-09-28T14:31:47.539] [INFO] [iPad:123456789] - recv from: [Group: 示例群聊(88888888), Member: �尼古拉斯(2333333)] 完美

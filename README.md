@@ -3,6 +3,12 @@
 
 [![license](https://img.shields.io/github/license/Sirius0v0/SiriusBot)](https://choosealicense.com/licenses/agpl-3.0/)
 
+## 使用说明
+
+list、logs文件夹的文件、juan.txt、msg_count.txt、wordcloud-annual.png均为示例
+
+使用时请将logs文件夹的文件替换成你自己的log，其他文件会自动生成
+
 ## 技术细节
 基于以下库开发
 + [oicq](https://github.com/takayama-lily/oicq)
